@@ -12,7 +12,7 @@ I am a native English speaker, but I have spend 3 years learning russian at a pr
 
 ## Contacts:
 
-- Email: `vyanviessel@outlook.com`
+- Email: `fyanviessel@outlook.com`
 - Facebook: [Fyan Viessel](https://www.facebook.com/profile.php?id=100071104898080)
 
 For any financial or business questions please query my phone number by e-mailing me, and we will schedule a personal meeting. I will not respond to anything finance/business related via internet.
