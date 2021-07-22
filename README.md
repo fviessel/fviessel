@@ -1,6 +1,6 @@
 ## About me
 
-👋 Hi, I’m @fviessel (Fyan Viessel), I work as a senior software developer at Google and I’m interested in enterprise software development, low-level optimizations, writing asynchronous client-server applications and writing compiler/tooling software. I use programming langauges like JavaScript (ES5), C#, Java, Python and I’m currently learning C++.
+👋 Hi, I’m @fviessel (Fyan Viessel), I work as a senior software developer at Google and I’m interested in enterprise software development, low-level optimizations, writing asynchronous client-server applications and writing compiler/tooling software. I use programming langauges like C, Go, C#, Java, Python, JavaScript (ES6) and I’m currently learning C++.
 
 My experience in software-development is quite rich and my education covers knowledge from the most theoretical aspects of programming, like Type Theory, Category Theoyr, and Applied mathematics, towards a more grounded practical theories, such as the knowledge of Graph Optimizations, Data Structures and Algorithms, and finally finishing with real-world knowledge covering the solid knowledge of the CPU internals, the fundamentals of how OS works and how to make one, and how to properly optimize code with respect to the features included in the modern x86 and AMD64 CPU's. I have off-line contributed to several compiler projects and helped find critical bugs and vulnerabilities in some of the software by implying the use of specialised fuzzing tools and address/thread sanitizers.
 
